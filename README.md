@@ -13,7 +13,7 @@ Yearly info from : https://github.com/sajanm/nepali-lunar-calendar-events
 
 
 ## Kathmandu Traffic Update
-This bot replies message with latest kathmandu traffic update.
+This bot replies message with latest kathmandu traffic update. Bot is intendent to be used as a deployable app in Heroku
 Web scraping done by BeautifulSoup.
 All infomation was taken for education purposes from http://traffic.nepalpolice.gov.np site.
 [Discontinued]
