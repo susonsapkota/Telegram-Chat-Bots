@@ -19,7 +19,7 @@ pip-autoremove==0.9.1
 pylint==2.1.1
 pyTelegramBotAPI==3.6.6
 pytz==2018.9
-requests==2.31.0
+requests==2.32.2
 six==1.11.0
 telebot==0.0.3
 Werkzeug==3.0.1
